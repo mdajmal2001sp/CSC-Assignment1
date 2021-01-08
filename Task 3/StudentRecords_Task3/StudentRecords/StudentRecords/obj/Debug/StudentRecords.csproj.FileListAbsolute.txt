@@ -1,0 +1,238 @@
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\obj\Debug\StudentRecords.csprojAssemblyReference.cache
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\obj\Debug\StudentRecords.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\StudentRecords.dll.config
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\StudentRecords.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\StudentRecords.pdb
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\csc.exe
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\csc.exe.config
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\csc.rsp
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\csi.exe
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\csi.exe.config
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\csi.rsp
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.AppContext.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Console.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.IO.Compression.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Net.Http.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Net.Sockets.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.ValueTuple.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Xml.XPath.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\vbc.exe
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\vbc.exe.config
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\vbc.rsp
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\VBCSCompiler.exe
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Antlr3.Runtime.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\EntityFramework.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\EntityFramework.SqlServer.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Newtonsoft.Json.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Owin.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Net.Http.Formatting.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Cors.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Helpers.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Http.Cors.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Http.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Http.Owin.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Http.WebHost.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Mvc.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Optimization.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Razor.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.WebPages.Deployment.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.WebPages.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.WebPages.Razor.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\WebGrease.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Http.Cors.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Newtonsoft.Json.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Net.Http.Formatting.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Helpers.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Http.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Http.WebHost.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Mvc.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Optimization.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Razor.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.WebPages.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.WebPages.Deployment.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.WebPages.Razor.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Antlr3.Runtime.pdb
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\EntityFramework.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\EntityFramework.SqlServer.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\System.Web.Http.Owin.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\obj\Debug\StudentRecords.csproj.CopyComplete
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\obj\Debug\StudentRecords.dll
+C:\Users\moham\source\repos\StudentRecords\StudentRecords\obj\Debug\StudentRecords.pdb
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\StudentRecords.dll.config
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\StudentRecords.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\StudentRecords.pdb
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\csc.exe
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\csc.exe.config
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\csc.rsp
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\csi.exe
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\csi.exe.config
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\csi.rsp
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.AppContext.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Collections.Immutable.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Console.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Globalization.Calendars.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.IO.Compression.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.IO.FileSystem.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Net.Http.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Net.Sockets.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Reflection.Metadata.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.ValueTuple.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Xml.XPath.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\vbc.exe
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\vbc.exe.config
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\vbc.rsp
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\VBCSCompiler.exe
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\roslyn\VBCSCompiler.exe.config
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Antlr3.Runtime.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\EntityFramework.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\EntityFramework.SqlServer.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Facebook.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Google.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Twitter.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Web.Infrastructure.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Newtonsoft.Json.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Owin.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Net.Http.Formatting.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Cors.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Helpers.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Http.Cors.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Http.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Http.Owin.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Http.WebHost.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Mvc.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Optimization.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Razor.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.WebPages.Deployment.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.WebPages.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.WebPages.Razor.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\WebGrease.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Http.Cors.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Newtonsoft.Json.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Net.Http.Formatting.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Helpers.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Http.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Http.WebHost.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Mvc.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Optimization.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Razor.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.WebPages.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.WebPages.Deployment.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.WebPages.Razor.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Antlr3.Runtime.pdb
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\EntityFramework.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\EntityFramework.SqlServer.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Facebook.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Google.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.Twitter.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\System.Web.Http.Owin.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\obj\Debug\StudentRecords.csprojAssemblyReference.cache
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\obj\Debug\StudentRecords.csproj.CoreCompileInputs.cache
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\obj\Debug\StudentRecords.csproj.CopyComplete
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\obj\Debug\StudentRecords.dll
+C:\CSC_ca1\Assignment code\Task 3\StudentRecords_Task3\StudentRecords\StudentRecords\obj\Debug\StudentRecords.pdb

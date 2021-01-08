@@ -1,0 +1,199 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+        <h1>Receipt Recognition</h1>
+        <hr />
+        <h2>Upload your receipt image here</h2>
+
+        <input type="file" name="file" id="file" value="dataFile" required="" accept=".png,.jpg,.jpeg">
+        <br />
+        <button onclick="uploadFile()">Upload to Clarifai</button>
+        <br /><br />
+
+
+        <div id="tags"></div>
+        <br />
+        <div id="receiptCheck"></div>
+        <br />
+        <div id="receiptAmount"></div>
+    </div>
+
+</body>
+</html>
+<script type="text/javascript" src="https://sdk.clarifai.com/js/clarifai-latest.js"></script>
+<script src="https://cdn.cloudmersive.com/jsclient/cloudmersive-ocr-client.js"></script>
+<script>var app = new Clarifai.App({
+    apiKey: 'API_KEY_HERE'
+    });
+    function validateUpload() {
+        var file = document.getElementById('file').files[0];
+        if (file == null) {
+            alert('No Image uploaded. Please upload an image.');
+            return false;
+        } else {
+            var fileName = file.name;
+            var allowed_extensions = new Array("jpg", "png", ".jpeg");
+            var file_extension = fileName.split('.').pop().toLowerCase();
+
+            for (var i = 0; i < allowed_extensions.length; i++) {
+                if (allowed_extensions[i] == file_extension) {
+                    return true;
+                }
+            }
+            $("#file").val('');
+            alert('invalid file extension. Please choose a valid extension.');
+            return false;
+        }
+    }
+    
+    function uploadFile() {
+        var file = document.getElementById('file').files[0];
+        var reader = new FileReader();
+        reader.onload = function () {
+            var imageDataUrl = reader.result;
+            //replace this line of text with nothing to remove it from the data url to get the base64 encoded image
+            var imageData = imageDataUrl.replace(/^data:image\/(.*);base64,/, '');
+            app.inputs.create([
+                {
+                    base64: imageData
+                }
+            ]).then(
+                function (response) {
+                    console.log(response);
+                    alert('upload successful!');
+                    tagImage();
+                    checkReceipt();
+                    checkAmount();
+                },
+                function (err) {
+                    console.log(err);
+                    alert('upload failed!');
+                });
+        }
+
+       
+
+        if (validateUpload()) {
+            reader.readAsDataURL(file);
+        }
+
+
+
+    }
+
+    function tagImage() {
+        var file = document.getElementById('file').files[0];
+        var reader = new FileReader();
+        reader.onload = function () {
+            var imageDataUrl = reader.result;
+            //replace this line of text with nothing to remove it from the data url to get the base64 encoded image
+            var imageData = imageDataUrl.replace(/^data:image\/(.*);base64,/, '');
+            //predict using the workflow that holds the general model
+            app.workflow.predict("General", { base64: imageData })
+                .then(function (response) {
+                    //there are 3 objects in the outputs
+                    //we are only taking the first object in output since it contains the tags
+                    //the other objects contains data from other models that aren't concept-based
+                    var output = response.results[0].outputs[0];
+                    $('#tags').html('Image Tags: ');
+
+                    output.data.concepts.forEach((concept, index) => {
+                        if (output.data.concepts.length == index + 1) {
+                            $('#tags').append(concept.name);
+                        } else {
+                            $('#tags').append(concept.name + ", ");
+                        }
+
+
+                    })
+
+
+                });
+
+
+        }
+
+        if (validateUpload()) {
+            reader.readAsDataURL(file);
+        }
+    }
+
+    function checkReceipt() {
+        var file = document.getElementById('file').files[0];
+        var reader = new FileReader();
+        reader.onload = function () {
+            var imageDataUrl = reader.result;
+            //replace this line of text with nothing to remove it from the data url to get the base64 encoded image
+            var imageData = imageDataUrl.replace(/^data:image\/(.*);base64,/, '');
+            app.models.predict("my-first-application", imageData)
+                .then(function (response) {
+                    console.log(response);
+                    var output = response.outputs[0];
+                    var concept = output.data.concepts[0];
+                    console.log(output);
+                    console.log(concept);
+                    
+                    if (concept.value >= 0.5) {
+                        $('#receiptCheck').html('Image is a receipt as image has value of ' + concept.value);
+                    } else if (concept.value < 0.5) {
+                        $('#receiptCheck').html('Image is not a receipt as image has value of ' + concept.value);
+                    }
+                })
+        }
+
+        if (validateUpload()) {
+            reader.readAsDataURL(file);
+        }
+    }
+
+    function checkAmount() {
+        var file = document.getElementById('file').files[0];
+        var reader = new FileReader();
+        
+        reader.onload = function () {
+
+            
+            console.log(file);
+            console.log("oks");
+            
+            var defaultClient = cloudmersiveOcrApiClient.ApiClient.instance;
+
+            // Configure API key authorization: Apikey
+            var Apikey = defaultClient.authentications['Apikey'];
+            Apikey.apiKey = "API_KEY_HERE"
+
+            var api = new cloudmersiveOcrApiClient.ImageOcrApi()
+            console.log("ok");
+
+            var imageFile = fs.readFileSync(file); // {File} Image file to perform OCR on.  Common file formats such as PNG, JPEG are supported.
+            console.log("ok");
+
+            var callback = function (error, data, response) {
+                if (error) {
+                    console.error(error);
+                } else {
+                    console.log('API called successfully. Returned data: ' + data);
+                }
+            };
+            api.imageOcrPost(Buffer.from(pageBytes.buffer), callback);
+
+
+
+
+            if (validateUpload()) {
+                reader.readAsDataURL(file);
+            }
+        }
+    }</script>
+
+
+
+
+
+
